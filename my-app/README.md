@@ -17,3 +17,7 @@ Create a 3-step form wizard with these steps:
 - Bonus:
 1. Step-wise validation
 2. Persist state in localStorage
+
+
+- Solution
+    - I have attached the screenshot also, please find result screenshots in my-app/screenshots folder.
