@@ -1,0 +1,27 @@
+ table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 20px 0;
+      font-size: 16px;
+      font-family: sans-serif;
+    }
+
+    th, td {
+      padding: 12px 15px;
+      border: 1px solid #ccc;
+      text-align: left;
+    }
+
+    thead {
+      background-color: #f4f4f4;
+    }
+
+    tbody tr:hover {
+      background-color: #f9f9f9;
+    }
+.review{
+    margin: 20px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+   
